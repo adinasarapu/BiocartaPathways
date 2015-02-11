@@ -12,7 +12,7 @@ import org.w3c.dom.NodeList;
 
 /*
  * author: Ashok R. Dinasarapu
- * 
+ * University of Florida
  */
 public class PathwayModel {
 	// private NodeList nl_paths;
