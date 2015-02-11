@@ -20,6 +20,7 @@ import org.w3c.dom.NodeList;
 import org.xml.sax.SAXException;
 /*
  * author: Ashok R. Dinasarapu
+ * University of Florida
  */
 public class BioCartaPathway {
 	// Actually Java supports 4 methods to parse XML out of the box
